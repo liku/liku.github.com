@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://mikepavlenko.com/blog/sitemap.xml 
